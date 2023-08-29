@@ -1,2 +1,1 @@
-My first readme
-shell and git project
+My first readme Updated
